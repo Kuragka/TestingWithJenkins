@@ -6,5 +6,5 @@ if [ -e "FILENAME" ]; then
 else
     echo "Hello, World!" > readme.txt
 fi
-#sefeffasd
+
 df -h
