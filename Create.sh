@@ -6,5 +6,5 @@ if [ -e "FILENAME" ]; then
 else
     touch "$STRING" > readme.txt
 fi
-
+cat readme.txt
 df -h
