@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Create'){
             steps {
-                sh 'Create.sh'
+                sh 'sh Create.sh'
             }
         }
     }
